@@ -1,7 +1,7 @@
 # tju_plus
 //一个简简单单webapp
 
-//利用FusionApp扩展开发，基于上古世纪Andriod Lua（暴论）
+//利用FusionApp扩展开发，基于上古世纪AndroLua-（暴论）
 
 //收录有关天津大学的门户网站
 
