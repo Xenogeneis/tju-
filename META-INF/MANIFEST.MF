@@ -1,0 +1,582 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/crop__activity_crop.xml
+SHA1-Digest: sowBfQ8qcOHSBNZ7Dk4c5UCDUKA=
+
+Name: lua/loadmenu.lua
+SHA1-Digest: HbqS1HBNwqrUo3f3fl9BOW/Fzhs=
+
+Name: res/drawable/ic_close_gay_24dp.xml
+SHA1-Digest: pntFU2JlETscf12tmKv8rAk4yAA=
+
+Name: res/drawable/ic_key_gay_24dp.xml
+SHA1-Digest: KtzXp4hPnIRn2jwBjBDRNY7+0Pk=
+
+Name: assets/Util.lua
+SHA1-Digest: pm/ajTEkk2kgKW7AgBFRLrpAjA0=
+
+Name: res/layout/color_widget.xml
+SHA1-Digest: Yp4Unx+PtXUpZ5vpj+moJWR/+Pw=
+
+Name: assets/layout/searchbar.lua
+SHA1-Digest: X3YY2eoEf7odWiqqZ3OH3N1aw88=
+
+Name: res/layout/searchbar.xml
+SHA1-Digest: F9L8oTvt6qUqIdzO/LnzrISgUu0=
+
+Name: assets/Bin_protect/18.lua
+SHA1-Digest: HjiBPvmyh2QO/A1DATWM/lUPUX4=
+
+Name: res/drawable/ic_view_quilt_gay_24dp.xml
+SHA1-Digest: vFJuFIHLN1nwWwm7fUv1E4Xyf1w=
+
+Name: res/drawable/ic_format_paint_gay_24dp.xml
+SHA1-Digest: cw8cbmoBmZ6P5zER3uBC6TzzMmE=
+
+Name: res/layout/action_button.xml
+SHA1-Digest: l2YE2e3cEPAnKKK4qt6oK4nyLbM=
+
+Name: assets/main.lua
+SHA1-Digest: W1JRuPucouO01vSBAPPOeXvNMJQ=
+
+Name: res/drawable/ic_info_white_24dp.xml
+SHA1-Digest: NW8vat2v45Lvmiwk7fY3sNQZOjg=
+
+Name: res/drawable/ic_play_arrow_white_24dp.xml
+SHA1-Digest: Uj7mxKJcYqtxmiZ/0R/+xLOBw0w=
+
+Name: assets/layout/main.lua
+SHA1-Digest: cJjmlPxkHGWQskW5OQgW3bkbwi0=
+
+Name: assets/NWDXLPlayer.lua
+SHA1-Digest: MITxtHyoBEbxgwRCBcraIpq3BnE=
+
+Name: res/drawable/ic_group_add_gay_24dp.xml
+SHA1-Digest: 9B262hvu+PVu5jEQpfMWLBR8YPs=
+
+Name: assets/layout/listitem_sidelvw.lua
+SHA1-Digest: xcDRiloKj/Z+5c3stCuieov38RI=
+
+Name: assets/Bin_protect/11.lua
+SHA1-Digest: /nyy/1oC7y2aXxpp5aCefQWyDqc=
+
+Name: res/drawable-v21/crop__selectable_background.xml
+SHA1-Digest: /6PseBLBiom2I2fa++wrS92C+e4=
+
+Name: assets/Bin_protect/26.lua
+SHA1-Digest: aaO5JKK/r1L5mIkQ7XoK7WRdktA=
+
+Name: res/drawable/ic_default.png
+SHA1-Digest: 4MrEIsI3Wc6WEbDrKItMgmD+dUU=
+
+Name: res/drawable/ic_grade_gay_24dp.xml
+SHA1-Digest: /dbbvRHayaKjwWfZMOT+qnQ4HVU=
+
+Name: assets/Bin_protect/5.lua
+SHA1-Digest: RwyXPQIOiosy3BjHZcdanZx95eY=
+
+Name: resources.arsc
+SHA1-Digest: HwROBRv59Kn2Rek6GlljQ/SQ2dE=
+
+Name: assets/drawable/account_box.png
+SHA1-Digest: G/3m3W3QObWU+6wtgWE+5eVxHZo=
+
+Name: res/drawable/ic_book_gay_24dp.xml
+SHA1-Digest: xmMIPLdFaRBwH8yEPc9xbtvBQ2A=
+
+Name: res/drawable/ic_bin_five_picture.xml
+SHA1-Digest: a1oWQjo4LYr3wY7BIKK9y3IeUpE=
+
+Name: AndroidManifest.xml
+SHA1-Digest: tFYjxHj0xk9yjWOyC8WrRYvAFzc=
+
+Name: assets/Bin_protect/9.lua
+SHA1-Digest: r8K5wxXT6nmCuj5nx0REMlplx9g=
+
+Name: assets/drawable/vpn.png
+SHA1-Digest: g26Qy+v5YdjcPwat/N0vdjeJ8xs=
+
+Name: res/drawable-xhdpi-v4/crop__divider.9.png
+SHA1-Digest: kAA9inTJRlbjsA4j0zwQiNZllZc=
+
+Name: assets/Bin_protect/22.lua
+SHA1-Digest: y3gZUjjj+N3wQ8kthTYD7HafS4U=
+
+Name: res/drawable/ic_style_gay_24dp.xml
+SHA1-Digest: kf85Nv4jnysh2imT/oT1BknqUAs=
+
+Name: assets/drawable/cloud_outline.png
+SHA1-Digest: lVMUQ552F3/OHKvvl8yUJj78q88=
+
+Name: res/drawable/ic_more_vert_gay_24dp.xml
+SHA1-Digest: ApdvNHiV2yFEsawCDkhjAQibLzk=
+
+Name: assets/Bin_protect/14.lua
+SHA1-Digest: iGgcTnF8nE7NPtvhAkWUzuYXdxA=
+
+Name: assets/Bin_protect/2.lua
+SHA1-Digest: 2wYT2E8i9fUTy7HUQfIQ1sQtwfc=
+
+Name: res/drawable/ripple_light.xml
+SHA1-Digest: G4au7PBkB5S2+hR3PYAsDi4LzdI=
+
+Name: res/layout/webview_error.xml
+SHA1-Digest: 0pkpJdJeugAM1C7x+s/n1lEcXlI=
+
+Name: res/drawable/ic_bin_one_picture.xml
+SHA1-Digest: 1ANrAM4Z+sj/Q5eoC8qNfZ/QF6I=
+
+Name: res/drawable/ic_leaf_gay_24dp.xml
+SHA1-Digest: 1Z2OWctv5Xg69Ju4NsDWIFbB4OY=
+
+Name: res/drawable/ic_done_gay_24dp.xml
+SHA1-Digest: kkVpQPDeCtvG+1dnY5u1TYpuosA=
+
+Name: res/layout/numeric_select_dialog.xml
+SHA1-Digest: AAys2OW3g845f3lyeG7ndvUUjUg=
+
+Name: lib/armeabi/libluajava.so
+SHA1-Digest: zi12/hDVY/ZF/iE+zQ+FSu3x66E=
+
+Name: assets/Bin_protect/29.lua
+SHA1-Digest: aaO5JKK/r1L5mIkQ7XoK7WRdktA=
+
+Name: assets/drawable/email_open.png
+SHA1-Digest: jef+f54M3vKzeQXU894HzJzQf8U=
+
+Name: res/layout/toast.xml
+SHA1-Digest: imFj/7+Ms8QLg/AUyzaGaPRM6Zo=
+
+Name: res/xml/accessibility_service_config.xml
+SHA1-Digest: RkUl8ONgnLaOnnZOp+CCB50PrkE=
+
+Name: res/drawable/ic_apps_gay_24dp.xml
+SHA1-Digest: T3/WMc8jvtNVsg+gmV0LJTTkJxs=
+
+Name: res/drawable/ic_invert_colors_gay_24dp.xml
+SHA1-Digest: KIMH0k7NJELo1V1a0FrbrAXvkag=
+
+Name: assets/funlib.lua
+SHA1-Digest: 6IwhdYUcazjUr3cPR3XgUguf8mU=
+
+Name: res/drawable/ic_delete_gay_24dp.xml
+SHA1-Digest: hMtidhZJLr+YawNpqXj4LMmdrns=
+
+Name: res/drawable/ic_search_gay_24dp.xml
+SHA1-Digest: q7hP+Nzg1epVLp554CS+y6D70Xs=
+
+Name: res/drawable/circle_button.xml
+SHA1-Digest: 44RyOpTVG4rDZabZ2J6n9vKqDCw=
+
+Name: lua/loadlayout.lua
+SHA1-Digest: DWOoNtnnD9f3OdKN/pRb5BrBkBI=
+
+Name: assets/Bin_protect/27.lua
+SHA1-Digest: aaO5JKK/r1L5mIkQ7XoK7WRdktA=
+
+Name: res/drawable/ic_person_gay_24dp.xml
+SHA1-Digest: rgaWISpoAHEZ7lwRcTRIVF5HL+o=
+
+Name: res/drawable/ic_open_in_new_white_24dp.xml
+SHA1-Digest: Zb9ZoCgJTS5aoG8eCUrNuKjyAfA=
+
+Name: assets/Bin_protect/6.lua
+SHA1-Digest: fA3lHoaxie8txtlKXyj6knTD9mc=
+
+Name: res/drawable/round_button_not_padding.xml
+SHA1-Digest: iRrvhs0avnNShcXNfKJVU41HGw4=
+
+Name: res/layout/see_image.xml
+SHA1-Digest: cOfyZTmLzu7iqWUboaHNOJDdE/g=
+
+Name: res/drawable/ic_content_cut_white_24dp.xml
+SHA1-Digest: YooAByzwR45On63yIszuuvopqc0=
+
+Name: assets/Bin_protect/12.lua
+SHA1-Digest: 71c/MwKDy/6o7ssryWQaM/epwq4=
+
+Name: res/layout/listitem_general.xml
+SHA1-Digest: ctMCEvePgKWcJxQOM48b3PGXMN8=
+
+Name: res/drawable/ic_add_gay_24dp.xml
+SHA1-Digest: So3g4gql/GWChuP2wSbdVDiWHjA=
+
+Name: res/drawable/ic_bin_six_picture.xml
+SHA1-Digest: AtzowRLAsBKomkZVRdKWLVf8vTw=
+
+Name: assets/drawable/briefcase.png
+SHA1-Digest: 57pO9Y09klgR3ssJi900VDa8RWw=
+
+Name: res/drawable/crop__texture.xml
+SHA1-Digest: hGRWxb0R4db0eyd9cPTVpTCS5dc=
+
+Name: assets/drawable/library.png
+SHA1-Digest: x1/HvO5n4sNPxGH+YpLA9BS500g=
+
+Name: assets/Bin_protect/30.lua
+SHA1-Digest: 6+pKm+nubZMJ7awlOUZIPy5JdLk=
+
+Name: res/drawable/ic_folder_accent_24dp.xml
+SHA1-Digest: umO2rZMp22kEs07pXF5UM1ZqSQE=
+
+Name: assets/Bin_protect/13.lua
+SHA1-Digest: NqERmWBAfeVJobq4wi4ziqcjfro=
+
+Name: res/drawable/ic_bin_four_picture.xml
+SHA1-Digest: 6qMpK1xrxhB4mz9o5Vv0xqX8ftM=
+
+Name: assets/Bin_protect/23.lua
+SHA1-Digest: aaO5JKK/r1L5mIkQ7XoK7WRdktA=
+
+Name: res/anim/dialog_enter.xml
+SHA1-Digest: +1Hm//DnCHkzinmxxI+uKpILsRQ=
+
+Name: res/drawable-xhdpi-v4/crop__ic_done.png
+SHA1-Digest: iE2tfQLkrgNIvYZN3a0MlRJpleA=
+
+Name: res/drawable/ripple_dark.xml
+SHA1-Digest: YeYl+S3+EruD9covW6WK/WRCj9E=
+
+Name: res/layout/create_new_app.xml
+SHA1-Digest: ysJR6/jBYKh1dg4JioJK6D0jpfk=
+
+Name: res/layout/inputbar.xml
+SHA1-Digest: vpLNsMiQ5xDxqhEzzcATyhdil0w=
+
+Name: res/drawable/ic_public_accent_24dp.xml
+SHA1-Digest: PLnVWnobELqZRl3ZQzNYzn4KkUE=
+
+Name: res/layout/toolbar.xml
+SHA1-Digest: vvySn/APw81Koq3e6P4J2hpndNQ=
+
+Name: assets/Bin_protect/17.lua
+SHA1-Digest: 1VD6Fxs1WFOjg/oKMhnUYKf6yUs=
+
+Name: res/drawable/ic_content_paste_white_24dp.xml
+SHA1-Digest: TG6Cl8KolwXszV47zs6XxH9Uskw=
+
+Name: res/drawable/ic_more_vert_white_24dp.xml
+SHA1-Digest: zRifISwWl7tsYA4+vGpvil0yCQk=
+
+Name: res/drawable/ic_help_gay_24dp.xml
+SHA1-Digest: N/Saikg08mjUzT33ZKvhla2Dkc0=
+
+Name: assets/init.lua
+SHA1-Digest: UXPdA9qR7vl227z3/l8zjM/tWI4=
+
+Name: res/drawable/ic_pageview_gay_24dp.xml
+SHA1-Digest: WTWaNS4pDQDskUxGGNciHTWUi74=
+
+Name: res/drawable/ic_photo_library_gay_24dp.xml
+SHA1-Digest: r9vqZ0K+Brxivf/XDV0doMpO+hI=
+
+Name: res/drawable/ic_settings_gay_24dp.xml
+SHA1-Digest: 7CzQEsvyn7bnZWkmD7a1kuPUkYQ=
+
+Name: res/anim/activity_exit_scale.xml
+SHA1-Digest: diCHcJ2XZwfUGSbRsiUwELlO4Q0=
+
+Name: res/drawable-xhdpi-v4/crop__ic_cancel.png
+SHA1-Digest: LeUUIGDCJ3LcQ5DzfXIZQh2slZY=
+
+Name: assets/utils.lua
+SHA1-Digest: 8Yz1ofSBEO7ozT4OqcR48zc0O+w=
+
+Name: assets/Bin_protect/1.lua
+SHA1-Digest: wMd+Ev2+cft9vvxNJtDxbprkKMk=
+
+Name: lua/import.lua
+SHA1-Digest: tNn0HRdCX/p3qvAp14iZSj0UhYc=
+
+Name: res/drawable/ic_menu_white_24dp.xml
+SHA1-Digest: TcchNIviZ7EmXLw4cQPfq5cRMKs=
+
+Name: assets/drawable/__ic_menu.png
+SHA1-Digest: 5Bj3W+j0jdE3A6hqKu+XuPDsFt4=
+
+Name: res/drawable/ic_ver_gay_24dp.xml
+SHA1-Digest: 59bljci1jSi5nah3J5DPy7CcZcg=
+
+Name: assets/Bin_protect/28.lua
+SHA1-Digest: aaO5JKK/r1L5mIkQ7XoK7WRdktA=
+
+Name: assets/mirror_lua.zip
+SHA1-Digest: 9de9E0gI5w0xNkuTSVXBAOybo48=
+
+Name: assets/drawable/magnify.png
+SHA1-Digest: W4+Ol0GaxpKegkdOaAVpsd9PJjs=
+
+Name: res/layout/input_dialog.xml
+SHA1-Digest: LCt2+1iyAyjUyEfYN5kHUkLr/LA=
+
+Name: res/anim/activity_enter_scale.xml
+SHA1-Digest: /KJAzQuVNYvWCS88P4po3XvrELs=
+
+Name: assets/layout/sidebar.lua
+SHA1-Digest: glY/XOYGZzgfcfg1f7zOeFwoSnQ=
+
+Name: res/drawable/error_404.png
+SHA1-Digest: 4wN1WERYFToFz50uuRxJYcmrL7I=
+
+Name: assets/drawable/__sidebar.png
+SHA1-Digest: QGaqvrAHCByw0hCuXlY2GfS8e7c=
+
+Name: assets/fapploader.lua
+SHA1-Digest: UYcLQ/GcWhTAkOPV2rmgnv5FP9o=
+
+Name: res/layout/welcome.xml
+SHA1-Digest: CIBxzUuQ7IJD92p0AFQEoXvYT18=
+
+Name: res/drawable/ic_bin_three_picture.xml
+SHA1-Digest: xbSFPPzAWj4HfFl0zvdyfkC0fZI=
+
+Name: assets/drawable/__ic_more.png
+SHA1-Digest: vQphOzh5i4UXDyAKOl4FY7nLNlU=
+
+Name: assets/drawable/wikipedia.png
+SHA1-Digest: +I2kgeGqkssCyH2duDUTS0n4a34=
+
+Name: assets/Bin_protect/3.lua
+SHA1-Digest: 2wYT2E8i9fUTy7HUQfIQ1sQtwfc=
+
+Name: assets/drawable/bookmark.png
+SHA1-Digest: rbrneiB+oMhWEuFctrdzaT2UrHw=
+
+Name: assets/AdBlocker.lua
+SHA1-Digest: Dxr3/hIgg+AKK6ariQ0+bjzJn/k=
+
+Name: assets/Bin_protect/7.lua
+SHA1-Digest: KMo/E/uY2K3T8qcQdPDMJgTPUM8=
+
+Name: res/drawable/welcome.png
+SHA1-Digest: Xbi1f8yO/8XJMoZxLBHK7+YJhAs=
+
+Name: classes2.dex
+SHA1-Digest: Bq44/rUjJ812WQWPcWL2pdBTzkc=
+
+Name: res/drawable/btn_hollow_rectangle.xml
+SHA1-Digest: Q9J2HwIXpPiVitMJbeW9QmKVrkQ=
+
+Name: res/layout/video_loading.xml
+SHA1-Digest: /NbFwdCyJj/DXm08MDp03+KKRps=
+
+Name: res/drawable/ic_save_gay_24dp.xml
+SHA1-Digest: tIjX67d+94QgSPiiqaDiEF3BB6s=
+
+Name: assets/drawable/web.png
+SHA1-Digest: fizQp3pglNrerhXAnvoXHnvN6N0=
+
+Name: assets/popMenuFunc.lua
+SHA1-Digest: cr6fy+266h8payuibC2qhEcjgJg=
+
+Name: assets/Bin_protect/24.lua
+SHA1-Digest: aaO5JKK/r1L5mIkQ7XoK7WRdktA=
+
+Name: res/drawable/ripple_circle.xml
+SHA1-Digest: MtNtnJ4am43Xvsh2hdgYBNm+U2w=
+
+Name: assets/SimpleDocument.lua
+SHA1-Digest: eEls7IOeWA5j3YNNEtw336/KnSI=
+
+Name: assets/drawable/credit_card.png
+SHA1-Digest: 3K/Bg04jW8N7qosZjImp9DcKIWI=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: +vGLLGNgXJxclVIfqO8xqWV7a1E=
+
+Name: assets/drawable/fire.png
+SHA1-Digest: sEFOptfuzzMBTEHFeZfkY+o5Wc4=
+
+Name: assets/welcome.png
+SHA1-Digest: Xbi1f8yO/8XJMoZxLBHK7+YJhAs=
+
+Name: assets/drawable/__ic_fltbtn.png
+SHA1-Digest: O5tTx2d00V5grMZJYwIliT2kWMo=
+
+Name: assets/drawable/refresh.png
+SHA1-Digest: 8RKu7sMIjEVNpmifvsHhdFTKuzo=
+
+Name: assets/drawable/home_variant.png
+SHA1-Digest: 4ZP8ihz8kKtzhshGE6irh/e++78=
+
+Name: assets/loadBar.lua
+SHA1-Digest: TGfsVgnNArYfijLjR6+1UfHXoXw=
+
+Name: res/layout/download.xml
+SHA1-Digest: TJII5/9a0y4VbEw6YprV28RRVMM=
+
+Name: res/drawable/ic_bin_two_picture.xml
+SHA1-Digest: k0H8N3+EtJ0iARYJSXbz3pE+L3g=
+
+Name: res/drawable/ic_package_gay_24dp.xml
+SHA1-Digest: FaxILsEguljhep0qBhBktFJOLZ8=
+
+Name: assets/drawable/apple_safari.png
+SHA1-Digest: yPeoh4NHMnZR4Wx4tTJfvCK3KLE=
+
+Name: res/anim/dialog_bottom_exit.xml
+SHA1-Digest: wI6yNFUza2ODINBhhLoKQipEWdI=
+
+Name: assets/drawable/cloud.png
+SHA1-Digest: /OZLMNLPrOUdA7AZ7SwkvLRwm8Y=
+
+Name: res/drawable/ic_check_circle_white_24dp.xml
+SHA1-Digest: Jgm/NbzIFukbt4S4TQQ0VqDapA8=
+
+Name: assets/drawable/internet_explorer.png
+SHA1-Digest: m7kCY/kUekdk2GRP3kolrL1Xo6M=
+
+Name: res/layout/picker_edit.xml
+SHA1-Digest: Oo36fuEWm2YJheM/DtVOxB0KfCw=
+
+Name: res/drawable/ic_share_gay_24dp.xml
+SHA1-Digest: bmjtEQMPra7fchflU6vxSSpEJwM=
+
+Name: assets/drawable/__ic_close.png
+SHA1-Digest: FzKM3PPMgmtR28Ia9eyOp7+OTUE=
+
+Name: res/drawable/ic_arrow_back_gay_24dp.xml
+SHA1-Digest: 1bDE5Gj4VGeDVl06WDBS2/RW8O0=
+
+Name: assets/Bin_protect/20.lua
+SHA1-Digest: lwIZgkhewllQzoMRhRkESOpV4YQ=
+
+Name: assets/Bin_protect/16.lua
+SHA1-Digest: tif5Bw83E5lEbVcRbGoG+lHy3ow=
+
+Name: assets/drawable/arrow_right_bold_circle.png
+SHA1-Digest: amAcwIhCVuhOUB8xDsRvOKUdPeQ=
+
+Name: assets/Bin_protect/19.lua
+SHA1-Digest: 4UBD7x6DEOZQrThT05TINPppv0Q=
+
+Name: res/drawable/ic_undo_white_24dp.xml
+SHA1-Digest: 3wAUa3xow87iHnaqEPbKl80edQM=
+
+Name: assets/Bin_protect/4.lua
+SHA1-Digest: v9hPcrSdRktV7FMbthHdbKbCERM=
+
+Name: res/drawable/ic_add_white_24dp.xml
+SHA1-Digest: 8VnQTG15EdDTZEytLDeSHzFalo0=
+
+Name: res/drawable/ic_content_copy_white_24dp.xml
+SHA1-Digest: fPiSx8iBucC3fogcY8OhBYUh0o4=
+
+Name: assets/drawable/library_books.png
+SHA1-Digest: DvD1T49HZUOVtPuTdu0VrPbVtdU=
+
+Name: res/drawable/ic_sun_gay_24dp.xml
+SHA1-Digest: vOim1QmghMeov6zAiGK+jOUeuYM=
+
+Name: res/layout/color_preview.xml
+SHA1-Digest: Mqyskbz5+1sb8v6Coq4JRcoRBoY=
+
+Name: assets/icon.png
+SHA1-Digest: xjWDbOqrZF44k52O7YSwtlCxdS8=
+
+Name: assets/Bin_protect/10.lua
+SHA1-Digest: x4yKxE11My3MVMPkdoTaBxA+Y+M=
+
+Name: assets/Bin_protect/25.lua
+SHA1-Digest: aaO5JKK/r1L5mIkQ7XoK7WRdktA=
+
+Name: res/layout/color_selector.xml
+SHA1-Digest: 1s05nR0VesvIenI+Njy7wi1iuVk=
+
+Name: res/drawable/icon.png
+SHA1-Digest: xjWDbOqrZF44k52O7YSwtlCxdS8=
+
+Name: res/drawable/ripple_mask_ligth.xml
+SHA1-Digest: H/IoGJ3gWV9d090eigN10WK5nlA=
+
+Name: assets/drawable/alert.png
+SHA1-Digest: S3btu9YP6yxTOrlweU75MdvNU38=
+
+Name: readme.txt
+SHA1-Digest: c1NfU+rckVcIn/tBMs3wQCCHOpk=
+
+Name: res/drawable/ic_color_lens_ash_24dp.xml
+SHA1-Digest: 72LUAF5t3M5a/R3VLichL3Eugn4=
+
+Name: res/layout/crop__layout_done_cancel.xml
+SHA1-Digest: dTKmZzY/VvA4MaA+nwBXRHPZ7Rw=
+
+Name: res/drawable/ic_select_all_white_24dp.xml
+SHA1-Digest: gQG2Dif6HSrA+bEbhEER6Z5uVrc=
+
+Name: res/drawable/ripple_mask.xml
+SHA1-Digest: DrgBpb49gwSk7pkHqWs97pdkzhs=
+
+Name: assets/NWDXLPlayer_bitmapList.lua
+SHA1-Digest: sWwIDPqF+LVleKUNSI9bRK7lSj8=
+
+Name: assets/drawable/__ic_search.png
+SHA1-Digest: W4+Ol0GaxpKegkdOaAVpsd9PJjs=
+
+Name: assets/drawable/__ic_delete.png
+SHA1-Digest: bjsCoSZ/7+RbRhtF+5ZRmo3IqQo=
+
+Name: res/drawable/ic_more_horiz_gay_24dp.xml
+SHA1-Digest: 1jgi7Nq/Tslk/5wLq5lDJAhBT1A=
+
+Name: res/drawable/progressbar.xml
+SHA1-Digest: MjENRJoNQw9GSdv6dB1APRU1e7o=
+
+Name: res/anim/dialog_exit.xml
+SHA1-Digest: 2FaE83n7NlMm14SSfM/j2R7JIvM=
+
+Name: assets/BaseFunlib.lua
+SHA1-Digest: 0ZS1wEGX19Vp3dJdcuSB3GxTGUc=
+
+Name: assets/config.lua
+SHA1-Digest: /Yy1+uElP5kMcIQj4xU8JDAdoRU=
+
+Name: assets/drawable/map.png
+SHA1-Digest: PZVQxiIdr/Gl8XSFhy+zRn16RcQ=
+
+Name: assets/Bin_protect/15.lua
+SHA1-Digest: vUty0a7XASJYTJZSaxkZVff0Nas=
+
+Name: lua/loadbitmap.lua
+SHA1-Digest: FtggGJETfTMCaT8vr0s6FDGhqIo=
+
+Name: assets/Bin_protect/8.lua
+SHA1-Digest: GpL84vAe1oJe2n4MC2U5O43o56I=
+
+Name: assets/drawable/desktop_tower.png
+SHA1-Digest: Zccyt/yMnrRH5kWN9Sy1UcFzCz0=
+
+Name: assets/layout/tool_bar.lua
+SHA1-Digest: oBCrY3B6xEOVlOr1/fGhJUk1nvo=
+
+Name: assets/drawable/cash_usd.png
+SHA1-Digest: fDJpdOE3mKuNSY0K9YdkyM5GsSw=
+
+Name: res/anim/dialog_bottom_enter.xml
+SHA1-Digest: Nn9zzqymtBXk4xT8HnhVjsIWX/U=
+
+Name: res/drawable/ic_moon_gay_24dp.xml
+SHA1-Digest: NR0nvwroJRjFrHqP6mQgPoUt5e8=
+
+Name: assets/Bin_protect/21.lua
+SHA1-Digest: z3sQ/r5G333KzbuY6YMyXn3gLQ0=
+
+Name: res/drawable/list_item_divider.xml
+SHA1-Digest: LrDukL0erbNyaCU/fKMmkcCG2RM=
+
+Name: res/drawable/round_button.xml
+SHA1-Digest: 2PST7qvifupcXVbRyuDOS5gDSN8=
+
+Name: res/drawable-xhdpi-v4/crop__tile.png
+SHA1-Digest: OY8EP1r0qxbiPeyhJ7+nsdOzBus=
+
+Name: assets/drawable/book.png
+SHA1-Digest: M4PbQJDSeGmynwSWIfr8sym0E9M=
+
+Name: classes.dex
+SHA1-Digest: hnyPhQhqiTJyt9IjrKRrapfnQdk=
+
+Name: res/drawable/ic_check_white_24dp.xml
+SHA1-Digest: Pz4mUT+RrtLSwpiC/oSjFUsLyXE=
+
