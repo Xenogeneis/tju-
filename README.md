@@ -1,5 +1,5 @@
-# tju-plus
-一个简简单单webapp
+# tju_plus
+//一个简简单单webapp
 
 //利用FusionApp扩展开发，基于上古世纪Andriod Lua（暴论）
 
